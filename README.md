@@ -27,7 +27,7 @@ public class Developer {
     String name        = "Aniket";
     String location    = "Bhubaneswar, India 🇮🇳";
     String role        = "Full Stack Developer";
-    String[] passions  = { "Clean Code", "Open Source", "Problem Solving" };
+    String[] passions  = { "Clean Code", "Open Source", "Problem Solving", "Curious about tech"};
     boolean openToWork = true;
 
     String getCurrentFocus() {
