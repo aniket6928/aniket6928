@@ -152,7 +152,7 @@ public class Developer {
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/yourusername">
+<a href="https://leetcode.com/aniket6928">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
